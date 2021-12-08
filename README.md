@@ -11,6 +11,8 @@ Telegram bot to automate and manage channels.
 ## Usage
 
 ### Deploy to Heroku
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FHydrayt777%2FChannel-Bottg.git&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN%2CENVIRONMENT&API_HASHDesc=Get+this+value+from+my.telegram.org.&API_IDDesc=Get+this+value+from+my.telegram.org.&BOT_TOKENDesc=Obtain+a+Telegram+bot+token+by+contacting+%40BotFather&ENVIRONMENTDesc=Don%27t+change+ANYTHING.&referralCode=Hydrix)
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/ChannelBot)
 
